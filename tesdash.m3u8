@@ -13,7 +13,7 @@ https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd
 https://liveanevia.mncnow.id/live/eds/MNCTV/sa_dash_vmx/MNCTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
-#EXTINF:-1tvg-logo="https://static.mncnow.id/images/channel/bdca521e/ae34_r32.jpg",iNEWS
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/bdca521e/ae34_r32.jpg",INEWS
 https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
@@ -217,7 +217,7 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/b1276bb8/4fc8_r32.jpg",MiaoMi
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/b1276bb8/4fc8_r32.jpg",MIAOMI
 https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
@@ -325,11 +325,11 @@ https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_dash_vmx/MNCChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/32a32b35/15c7_r32.jpg",eNt
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/32a32b35/15c7_r32.jpg",MNC ENTERTAINMENT
 https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/3ff5b7fd/0a59_r32.jpg",iE
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/3ff5b7fd/0a59_r32.jpg",MNC INFOTAINMENT
 https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
@@ -345,11 +345,11 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_v_international.png",CHANEL'V
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_v_international.png",CHANEL V
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/9022d60d/9a4c_r32.jpg",MUSIC'TV
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/9022d60d/9a4c_r32.jpg",MUSIC TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
@@ -405,11 +405,11 @@ https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
 https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_action.png",FOX ACTION
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_action.png",FOX ACTION MOVIES
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_family.png",FOX FAMILY
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_family.png",FOX FAMILY MOVIES
 https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
@@ -461,7 +461,7 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/9abc87ac/038d_r32.jpeg",SOCCER
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/9abc87ac/038d_r32.jpeg",SOCCER CHANNEL
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
