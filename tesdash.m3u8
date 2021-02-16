@@ -173,16 +173,12 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 https://liveanevia.mncnow.id/live/eds/BabyTV/sa_dash_vmx/BabyTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/53d6b747/4db8_r32.jpg", DISNEY CHANEL
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/53d6b747/4db8_r32.jpg", DISNEY CHANNEL
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_junior_us.png",DISNEY JUNIOR
-https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_dash_vmx/DisneyJunior.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/32f5aa03/c40a_r32.jpg",DISNEY XD
-https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_dash_vmx/DisneyXD.mpd
+https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
 #EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/90f0101e/ad25_r32.jpg",CARTOON NETWORK
@@ -419,26 +415,20 @@ https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_crime_global.png",FOX CRIME
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png",HBO
-https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
+https://raw.githubusercontent.com/gpahyoshi/trying/main/habeo/hboindo.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png",HBO FAMILY
-https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_dash_vmx/HBOFamily.mpd
+https://raw.githubusercontent.com/gpahyoshi/trying/main/habeo/hbofamilyindo.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png",HBO HITS
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png",HBO SIGNATURE
-https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
+https://raw.githubusercontent.com/gpahyoshi/trying/main/habeo/hbosignatureindo.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/red_by_hbo_us.png",RED by HBO
+https://raw.githubusercontent.com/gpahyoshi/trying/main/habeo/redbyhboindo.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png",CINEMAX
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_dash_vmx/CinemaxHD.mpd
+https://raw.githubusercontent.com/gpahyoshi/trying/main/habeo/cinemaxindo.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDVmNDQyNjctODU2Mi0zMDU2LWJkMTktMThhMDQ5ODAwMjhl
 #EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/18dd6b78/6200_r32.jpg",WARNER TV
